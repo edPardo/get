@@ -15,6 +15,7 @@ declare -a paths=(
     "/homeassistant"
     "$HOME/.homeassistant"
     "/usr/share/hassio/homeassistant"
+    "/mnt/user/appdata/Home-Assistant-Container"
 )
 declare currentVersion
 declare currentYear
